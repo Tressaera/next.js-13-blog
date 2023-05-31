@@ -29,3 +29,6 @@ yazımı şu şekil olacak:  <Link href="/"> BLOG </link>
 
 Blog Card componenti yapacağız page dosyasına aktararak bunu nasıl yapacağımızı anlatacağım Components sayfası içerisinde index.js-style.module.css oluşturduktan sonra
 page sayfası içerisine girerek sayfayı bağlıyoruz.Ve BlogCard sayfası içerisinde dizayn ve komutları hazırlıyoruz.
+
+Görmek için:
+https://next-js-13-blog-qlkhge7jl-tressaera.vercel.app/
